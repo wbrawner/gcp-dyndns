@@ -1,1 +1,4 @@
-gcp-dyndns
+.idea/
+credentials.json
+pb-dyndns
+pb-dyndns.exe
